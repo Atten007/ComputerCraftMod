@@ -3,4 +3,6 @@ This is a remake of the Minecraft mod Computercraft that an be found here. With 
 !!! VERY IMPORTANT NOTES !!! :
 * This remake does currently not support Minecraft 1.18/1.18.1 and MCPE 1.18.2 because the application Mcreator, in which I've developed the mod, has not yet 1.18 support.
 * There's also a mobile version from this mod for non-java players as an MCPE add-on, but the MCPE add-on lacks currently with many features.
-* The mod ONLY supports 1.12.2 and/or newer, other versions WON'T work!
+* The mod ONLY supports the following Minecraft/MCPE versions:
+* MCPE 1.14 until MCPE 1.17.41.01
+* Minecraft: Java Edition 1.12.2 until Minecraft: Java Edition 1.17.1
