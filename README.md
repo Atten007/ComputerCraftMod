@@ -5,4 +5,4 @@ This is a remake of the Minecraft mod Computercraft that an be found here. With 
 * There's also a mobile version from this mod for non-java players as an MCPE add-on, but the MCPE add-on lacks currently with many features.
 * The mod ONLY supports the following Minecraft/MCPE versions:
 * MCPE 1.14 until MCPE 1.17.41.01
-* Minecraft: Java Edition 1.12.2 until Minecraft: Java Edition 1.17.1
+* Minecraft: Java Edition 1.12.2 until Minecraft: Java Edition 1.17.1. 1.13 until 1.13.2 is currently NOT supported because this versions have a different modding system.
